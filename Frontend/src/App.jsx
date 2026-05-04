@@ -32,8 +32,7 @@ function PublicLanding({ onShowAuth }) {
     <main className="public-shell">
       <nav className="landing-nav">
         <div className="landing-nav-inner">
-          <div className="brand-mark">
-            <span className="brand-icon">T</span>
+          <div>
             <span>
               <strong>TeamTask</strong>
               <small>Team Task Manager</small>
