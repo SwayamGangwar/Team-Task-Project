@@ -34,8 +34,7 @@ function PublicLanding({ onShowAuth }) {
         <div className="landing-nav-inner">
           <div>
             <span>
-              <strong>TeamTask</strong>
-              <small>Team Task Manager</small>
+              <strong>Team Task Manager</strong>
             </span>
           </div>
 
